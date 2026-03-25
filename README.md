@@ -1,3 +1,5 @@
+PRAKTIK STRUKTUR DATA YANG KE DUA
+
 1. Node
 Node adalah elemen penyusun Linked List.
 Setiap node punya:
